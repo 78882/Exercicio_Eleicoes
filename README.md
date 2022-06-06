@@ -24,3 +24,4 @@ Enquanto Meta de votos não foi atingida? Faça
       Informar que o voto foi inválido e não será computado
  Fim Enquanto
  
+![1c460ba7-1a17-4b83-990e-711b98594f50](https://user-images.githubusercontent.com/106120953/172264502-bd2960a5-880d-4dd5-be57-7f2a26a06edf.jpg)
